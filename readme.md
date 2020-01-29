@@ -1,1 +1,1 @@
-Linux Ricing Configs
+Ricing Configs
